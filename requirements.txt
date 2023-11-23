@@ -1,0 +1,7 @@
+ultralytics
+requests
+opencv-python
+azure-storage-blob
+geopy
+numpy
+geocoder
